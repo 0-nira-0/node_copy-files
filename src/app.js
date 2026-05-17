@@ -20,3 +20,4 @@ function app(pathFromFile, pathToFile) {
 const args = process.argv.splice(2);
 
 app(...args);
+
